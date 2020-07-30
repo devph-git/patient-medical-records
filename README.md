@@ -13,7 +13,7 @@ An open-source Patient Medical Records web application using Laravel and Vue.
 ### Core Team
 
 -   Team Lead: [Jibe](https://github.com/djma777)
--   UX/UI Design: [Resamae](https://github.com/mikie27), Mark
+-   UX/UI Design: [Resamae](https://github.com/mikie27), [Mark](https://github.com/markkalalo)
 -   Front-end: [Vincent](https://github.com/vbgiron), [Charles](https://github.com/Vincexx)
 -   Back-end: [Magi](https://github.com/magijoylarin), [Darwin](https://github.com/DarwinBuelo)
 
