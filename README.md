@@ -25,4 +25,4 @@ In order to ensure that the community is welcoming to all, please review and abi
 
 ## License
 
-Patient Medical Records is freely available for free non-commercial use, and may be redistributed under these conditions. For commercial queries, please drop an e-mail at admin[at]devph[dot]io. We will send the detail agreement to you.
+Patient Medical Records is freely available for free non-commercial use, and may be redistributed under these conditions. For commercial queries, please drop an e-mail at [admin@devph.io](mailto:admin@devph.io). We will send the detailed agreement to you.
