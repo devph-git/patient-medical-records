@@ -11,7 +11,6 @@ An open-source Patient Medical Records web application using Laravel and Vue.
 -   [MySQL](https://www.mysql.com/)
 
 ### Core Team
-
 -   Team Lead: [Jibe](https://github.com/djma777)
 -   UX/UI Design: [Resamae](https://github.com/mikie27), [Mark](https://github.com/markkalalo)
 -   Front-end: [Vincent](https://github.com/vbgiron), [Charles](https://github.com/Vincexx)
@@ -25,4 +24,4 @@ In order to ensure that the community is welcoming to all, please review and abi
 
 ## License
 
-POS System is freely available for free non-commercial use, and may be redistributed under these conditions. For commercial queries, please drop an e-mail at admin[at]devph[dot]io. We will send the detail agreement to you.
+Patient Medical Records is freely available for free non-commercial use, and may be redistributed under these conditions. For commercial queries, please drop an e-mail at [admin@devph.io](mailto:admin@devph.io). We will send the detailed agreement to you.
