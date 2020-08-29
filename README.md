@@ -11,11 +11,10 @@ An open-source Patient Medical Records web application using Laravel and Vue.
 -   [MySQL](https://www.mysql.com/)
 
 ### Core Team
-
--   Team Lead: [DJ](https://www.facebook.com/djasuncion777)
--   UX/UI Design: [Resamae](https://www.facebook.com/artech127)
--   Front-end: [Vincent](https://www.facebook.com/open24times), [Charles](https://www.facebook.com/quarts14)
--   Back-end: [Magi](https://www.facebook.com/magijoy/), [Darwin](https://www.facebook.com/darwin.buelo)
+-   Team Lead: [Jibe](https://github.com/djma777)
+-   UX/UI Design: [Resamae](https://github.com/mikie27), [Mark](https://github.com/markkalalo)
+-   Front-end: [Vincent](https://github.com/vbgiron), [Charles](https://github.com/Vincexx)
+-   Back-end: [Magi](https://github.com/magijoylarin), [Darwin](https://github.com/DarwinBuelo)
 
 For interested contributors, check out our contributor [guidelines](CONTRIBUTING.md).
 
