@@ -1,0 +1,17 @@
+{
+  "name": "pmr-0",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "https://github.com/devph-git/pmr-0",
+  "author": "Deorabbin Jibe Asuncion <deorabbinjibe777@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
