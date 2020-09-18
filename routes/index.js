@@ -1,6 +1,8 @@
 const express = require("express");
-const router = express.Router();
+const IndexRouter = express.Router();
 
-router.get("/", (req, res) => {
-  res.status(200).send("Hello World!!!");
+IndexRouter.get("/", async (req, res) => {
+  res.status(200).send("Home of Patient Medical Records API.");
 });
+
+module.exports = IndexRouter;
