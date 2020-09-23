@@ -10,15 +10,22 @@ const localPort = process.env.LOCAL_PORT;
 
 app.use(IndexRouter);
 
-(function server() {
-  app.listen(localPort || process.env.PORT, async () => {
-    console.log(`PMR-0 running at port ${PORT}`);
-  });
+async function server() {
+  try {
+    //start server
+    app.listen(localPort || process.env.PORT, async () => {
+      console.log(`PMR-0 running at port ${localPort}`);
+    });
 
-  connectDB();
-})();
+    //connect MongoDB
+    connectDB();
+  } catch (e) {
+    console.error(e);
+  }
+}
+
+server();
 
 module.exports = {
   server,
-  connectDB,
 };
