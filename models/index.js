@@ -1,9 +1,10 @@
 const mongoose = require("mongoose");
 
-module.exports = function connectDB() {
+module.exports = async function connectDB() {
   mongoose.connect(
     process.env.DB_URL,
     {
+      dbName: "testing101",
       useUnifiedTopology: true,
       useNewUrlParser: true,
     },
