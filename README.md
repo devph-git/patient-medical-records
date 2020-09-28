@@ -1,20 +1,22 @@
 # Patient Medical Records
 
-An open-source Patient Medical Records web application using Laravel and Vue.
+The backend API for an open-source project, Patient Medical Records - a web application using the MEVN stack.
 
 ### Features & Limitation
 
 ### Tech Stack
 
--   [Vue](https://vuejs.org/)
--   [Laravel 7](https://laravel.com/docs/7.x)
--   [MySQL](https://www.mysql.com/)
+- [NodeJS](https://nodejs.org/en/)
+- [ExpressJS](https://expressjs.com/)
+- [MongoDB](https://www.mongodb.com/)
+- [Mongoose](https://mongoosejs.com/)
 
 ### Core Team
--   Team Lead: [Jibe](https://github.com/djma777)
--   UX/UI Design: [Resamae](https://github.com/mikie27), [Mark](https://github.com/markkalalo)
--   Front-end: [Vincent](https://github.com/vbgiron), [Charles](https://github.com/Vincexx)
--   Back-end: [Magi](https://github.com/magijoylarin), [Darwin](https://github.com/DarwinBuelo)
+
+- Team Lead: [Jibe](https://github.com/djma777)
+- UX/UI Design: [Resamae](https://github.com/mikie27), [Mark](https://github.com/markkalalo)
+- Front-end: [Vincent](https://github.com/vbgiron), [Charles](https://github.com/Vincexx)
+- Back-end: [Magi](https://github.com/magijoylarin), [Jibe](https://github.com/djma777)
 
 For interested contributors, check out our contributor [guidelines](CONTRIBUTING.md).
 
