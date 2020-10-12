@@ -2,13 +2,14 @@ require("dotenv").config();
 const express = require("express");
 
 const connectDB = require("./src/models/index.js");
-const IndexRouter = require("./src/routes/index.js");
+const IndexRoute = require("./src/routes/index.js");
 
 const app = express();
 
 const localPort = process.env.LOCAL_PORT;
 
-app.use(IndexRouter);
+app.use(IndexRoute);
+server();
 
 function server() {
   try {
@@ -24,7 +25,7 @@ function server() {
   }
 }
 
-server();
+
 
 module.exports = {
   server,
