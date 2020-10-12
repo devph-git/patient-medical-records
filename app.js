@@ -1,8 +1,8 @@
 require("dotenv").config();
 const express = require("express");
 
-const connectDB = require("./models/index.js");
-const IndexRouter = require("./routes/index.js");
+const connectDB = require("./src/models/index.js");
+const IndexRouter = require("./src/routes/index.js");
 
 const app = express();
 
@@ -10,7 +10,7 @@ const localPort = process.env.LOCAL_PORT;
 
 app.use(IndexRouter);
 
-async function server() {
+function server() {
   try {
     //start server
     app.listen(localPort || process.env.PORT, async () => {
